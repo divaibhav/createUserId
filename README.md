@@ -1,6 +1,5 @@
-###Create User Id
-
-###(String Handling)
+#Create User Id
+(String Handling)
 
 Create user_id by accepting first_name, last_name and pin_
 code from user by using Scanner class.
